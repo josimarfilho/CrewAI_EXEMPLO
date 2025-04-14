@@ -38,10 +38,7 @@ python main.py
 ## 🧩 Estrutura do Projeto
 ```
 CrewAI_EXEMPLO/
-├── main.py                # Script principal de exemplo
-├── agents/                # Diretório para definição de agentes
-├── tasks/                 # Diretório para definição de tarefas
-├── utils/                 # Utilitários e funções auxiliares
+├── analise_mercado.ipynb  # Arquivo jupyter com o passo a passo da criação do arquivo
 ├── requirements.txt       # Dependências do projeto
 └── README.md              # Este arquivo
 ```
