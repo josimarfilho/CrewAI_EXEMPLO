@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 Execute o exemplo principal com:
 ```bash
-python main.py
+analise_mercado.ipynb (lembrando de linkar o kernel)
 ```
 
 ## 🧩 Estrutura do Projeto
